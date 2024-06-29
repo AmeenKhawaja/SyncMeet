@@ -10,11 +10,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 
-/*
-    Name: Ameen Khawaja
-    ID: 6935688
-    Email: ak19nu@brocku.ca
-*/
+
 /**
  * This class is responsible for storing each meeting cards information into a meeting object.
  * It contains a Meeting constructor and a bunch of getter & setters.

@@ -15,11 +15,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 import java.util.Locale;
-/*
-    Name: Ameen Khawaja
-    ID: 6935688
-    Email: ak19nu@brocku.ca
-*/
+
 /**
  * This class is responsible for managing the database. It stores and retrieves meetings
  * A portion of code has been taken from Android SQLite documentation and here specifically is where I took code from:

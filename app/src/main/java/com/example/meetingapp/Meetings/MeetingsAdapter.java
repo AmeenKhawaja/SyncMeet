@@ -14,11 +14,7 @@ import com.example.meetingapp.R;
 
 import java.util.List;
 
-/*
-    Name: Ameen Khawaja
-    ID: 6935688
-    Email: ak19nu@brocku.ca
-*/
+
 /**
  * This class is responsible for managing the list of meetings that is displayed which is a
  * RecyclerView. Basically, it binds every Meeting object to the RecyclerView's item and allows
