@@ -18,7 +18,7 @@ import com.google.android.material.bottomnavigation.BottomNavigationView;
  * if the user clicks "calendar" or "contacts" on the navigation bar, it will take them to that
  * view/layout.
  * A great resource I used to help put together this class is the fragment documentation from Android
- * https://developer.android.com/guide/fragments
+ * documentation which is here https://developer.android.com/guide/fragments
  */
 public class MainActivity extends AppCompatActivity {
     BottomNavigationView bottomNavigationView;
