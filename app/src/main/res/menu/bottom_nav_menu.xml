@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/meeting_button"
+    android:title="Meetings"
+    android:icon="@drawable/event_icon"/>
+    <item
+        android:id="@+id/calendar_button"
+        android:title="Calendar"
+        android:icon="@drawable/calendar"/>
+    <item
+        android:id="@+id/contacts_button"
+        android:title="Contacts"
+        android:icon="@drawable/user_icon"/>
+    <item
+        android:id="@+id/activity_button"
+        android:title="Activity"
+        android:icon="@drawable/bell"/>
+    <item
+        android:id="@+id/settings_button"
+        android:title="Settings"
+        android:icon="@drawable/settings"/>
+</menu>
