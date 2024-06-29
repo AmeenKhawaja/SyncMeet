@@ -1,9 +1,14 @@
-# MeetingApp
+# SyncMeet
+SyncMeet is a powerful and user-friendly application designed to simplify the process of scheduling and managing meetings. Whether for business or personal use, SyncMeet ensures that all your meetings are organized, efficient, and easily accessible.
+## Built With
 
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+- ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+- ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ## Table of Contents
 
-- [About the Project](#about-the-project)
-- [Built With](#built-with)
 - [Getting Started](#getting-started)
 - [Download](#download)
 - [Usage](#usage)
@@ -11,10 +16,6 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-
-## About the Project
-
-SyncMeet is a powerful and user-friendly application designed to simplify the process of scheduling and managing meetings. Whether for business or personal use, SyncMeet ensures that all your meetings are organized, efficient, and easily accessible.
 
 ### Features
 
@@ -24,14 +25,6 @@ SyncMeet is a powerful and user-friendly application designed to simplify the pr
 - **Meeting History:** Keep track of past meetings and access their details anytime.
 - **User-Friendly Interface:** Intuitive and easy-to-use interface built with Android Studio.
 - **Compatibility:** Works on 98% of Android devices. Requires Android 6.0 (Marshmallow) and above.
-
-## Built With
-
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-- ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-- ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## Getting Started
 
