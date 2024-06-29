@@ -7,6 +7,7 @@
 - [Getting Started](#getting-started)
 - [Download](#download)
 - [Usage](#usage)
+- [Demo](#demo)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -61,6 +62,16 @@ If you prefer not to set up the development environment, you can download the AP
 1. Open the app on your Android device.
 2. Navigate through the user-friendly interface to schedule, manage, and track your meetings.
 3. Utilize notifications to stay updated with your meeting schedule.
+   
+## Demo
+
+Here are some screenshots showcasing the MeetingMaster app in action:
+
+- [Screenshot 1](screenshots/screenshot1.png)
+- [Screenshot 2](screenshots/screenshot2.png)
+- [Screenshot 3](screenshots/screenshot3.png)
+
+Check out a video demonstration of the app [here]().
 
 ## Contributing
 
