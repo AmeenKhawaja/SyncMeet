@@ -27,16 +27,6 @@
 - [License](#license)
 - [Contact](#contact)
 
-### Features
-
-- **📅 Schedule Meetings:** Easily set up new meetings with details such as date, time, participants, and agenda. 
-- **Manage Participants:** Add, remove, and manage participants for each meeting. 👥
-- **Notifications:** Get timely reminders for upcoming meetings. 🔔
-- **Meeting History:** Keep track of past meetings and access their details anytime. 📜
-- **User-Friendly Interface:** Intuitive and easy-to-use interface built with Android Studio. 📱
-- **Compatibility:** Works on 98% of Android devices. Requires Android 6.0 (Marshmallow) and above. 🚀
-
-
 ## Getting Started
 
 To get a local copy up and running, follow these steps. If you prefer not to run a local copy, go to #downloads.
