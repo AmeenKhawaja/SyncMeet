@@ -1,5 +1,15 @@
-# SyncMeet
-SyncMeet is a powerful and user-friendly application designed to simplify the process of scheduling and managing meetings. Whether for business or personal use, SyncMeet ensures that all your meetings are organized, efficient, and easily accessible.
+
+<h1 align="center">SyncMeet</h3>
+<p align="center">SyncMeet is a powerful and user-friendly application designed to simplify the process of scheduling and managing meetings. Whether for business or personal use, SyncMeet ensures that all your meetings are organized, efficient, and easily accessible.</p>
+<br />
+
+<p align="center"> 📅 <b>Schedule Meetings:</b> Easily set up new meetings with details such as date, time, participants, and agenda.  </p>
+<p align="center"><b>👥 Manage Participants:</b> Add, remove, and manage participants for each meeting.</p>
+<p align="center"><b>🔔 Notifications:</b> Get timely reminders for upcoming meetings.</p>
+<p align="center"><b>📜 Meeting History:</b> Keep track of past meetings and access their details anytime.</p>
+<p align="center"><b>📱 User-Friendly Interface: </b> Intuitive and easy-tou-use interface built with Android Studio.</p>
+<p align="center"><b>🚀 Compatibility:</b> Works on 98% of Android devices. Requires Android 6.0 (Marshmallow) and above.</p>
+
 ## Built With
 
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -19,12 +29,13 @@ SyncMeet is a powerful and user-friendly application designed to simplify the pr
 
 ### Features
 
-- **Schedule Meetings:** Easily set up new meetings with details such as date, time, participants, and agenda.
-- **Manage Participants:** Add, remove, and manage participants for each meeting.
-- **Notifications:** Get timely reminders for upcoming meetings.
-- **Meeting History:** Keep track of past meetings and access their details anytime.
-- **User-Friendly Interface:** Intuitive and easy-to-use interface built with Android Studio.
-- **Compatibility:** Works on 98% of Android devices. Requires Android 6.0 (Marshmallow) and above.
+- **📅 Schedule Meetings:** Easily set up new meetings with details such as date, time, participants, and agenda. 
+- **Manage Participants:** Add, remove, and manage participants for each meeting. 👥
+- **Notifications:** Get timely reminders for upcoming meetings. 🔔
+- **Meeting History:** Keep track of past meetings and access their details anytime. 📜
+- **User-Friendly Interface:** Intuitive and easy-to-use interface built with Android Studio. 📱
+- **Compatibility:** Works on 98% of Android devices. Requires Android 6.0 (Marshmallow) and above. 🚀
+
 
 ## Getting Started
 
