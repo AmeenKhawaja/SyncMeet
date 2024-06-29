@@ -20,7 +20,7 @@
         android:id="@+id/a_message_1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="This is not relevant to the assignment, I've only included this Settings section to make the navigation bar look more filled up. My plan is to implement a dark mode toggle in my own time."
+        android:text="Coming Soon"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

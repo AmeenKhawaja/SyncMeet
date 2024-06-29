@@ -11,8 +11,7 @@ import android.view.ViewGroup;
 import com.example.meetingapp.R;
 
 /**
- * This class is responsible for the settings view that is displayed. I did not implement anything
- * for this assignment, but plan to do so in my own time.
+ * This class is responsible for the settings view that is displayed. WORK IN PROGRESS
  */
 public class SettingsFragment extends Fragment {
 

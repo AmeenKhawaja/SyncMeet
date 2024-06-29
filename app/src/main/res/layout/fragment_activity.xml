@@ -20,7 +20,7 @@
         android:id="@+id/a_message"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="This is not relevant to the assignment, I've only included this Activity section to make the navigation bar look more filled up. I will implement this in my own time later"
+        android:text="No notifications yet"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

@@ -14,8 +14,7 @@ import com.example.meetingapp.R;
 import java.util.ArrayList;
 import java.util.List;
 /**
- * This class is responsible for the activity view that is displayed. I did not implement anything
- * for this assignment, but plan to do so in my own time.
+ * This class is responsible for the activity view that is displayed. WORK IN PROGRESS
  */
 public class ActivityFragment extends Fragment {
     @Override
