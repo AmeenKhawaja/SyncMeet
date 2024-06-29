@@ -6,7 +6,7 @@
 <p align="center"><b>👥 Manage Participants:</b> Add, remove, and manage participants for each meeting.</p>
 <p align="center"><b>🔔 Notifications:</b> Get timely reminders for upcoming meetings.</p>
 <p align="center"><b>📜 Meeting History:</b> Keep track of past meetings and access their details anytime.</p>
-<p align="center"><b>📱 User-Friendly Interface: </b> Intuitive and easy-tou-use interface built with Android Studio.</p>
+<p align="center"><b>📱 User-Friendly Interface: </b> Intuitive and easy-to-use interface built with Android Studio.</p>
 <p align="center"><b>🚀 Compatibility:</b> Works on 98% of Android devices. Requires Android 6.0 (Marshmallow) and above.</p>
 
 ## Built With
