@@ -1,7 +1,6 @@
 
 <h1 align="center">SyncMeet</h3>
 <p align="center">SyncMeet is a powerful and user-friendly application designed to simplify the process of scheduling and managing meetings. Whether for business or personal use, SyncMeet ensures that all your meetings are organized, efficient, and easily accessible.</p>
-<br />
 
 <p align="center"> 📅 <b>Schedule Meetings:</b> Easily set up new meetings with details such as date, time, participants, and agenda.  </p>
 <p align="center"><b>👥 Manage Participants:</b> Add, remove, and manage participants for each meeting.</p>
