@@ -40,7 +40,7 @@ Screenshots displaying the functionality and UI:
 
 ## Getting Started
 
-To get a local copy up and running, follow these steps. If you prefer not to run a local copy, go to #downloads.
+To get a local copy up and running, follow these steps. If you prefer not to run a local copy, go to #download.
 
 ### Prerequisites
 
