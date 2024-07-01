@@ -59,12 +59,12 @@ If you prefer not to set up the development environment, you can download the AP
 ## Demo
 
 Here are some screenshots showcasing the MeetingMaster app in action:
+<img width="422" alt="1c" src="https://github.com/AmeenKhawaja/SyncMeet/assets/71676841/400fe99e-a54c-411f-a3f2-f4bfefa96298">
+<img width="422" alt="1d" src="https://github.com/AmeenKhawaja/SyncMeet/assets/71676841/95b26bc2-5adb-46b0-86d0-fd82dc9e72f3">
+<img width="426" alt="1b" src="https://github.com/AmeenKhawaja/SyncMeet/assets/71676841/ac0325df-1393-4a3b-8069-14d9647231b1">
+<img width="419" alt="2a" src="https://github.com/AmeenKhawaja/SyncMeet/assets/71676841/4378cf81-e65c-45bc-b620-bc966c3ec6b4">
+<img width="419" alt="3a" src="https://github.com/AmeenKhawaja/SyncMeet/assets/71676841/a075e40d-ee03-437a-ad8a-f729938c32bc">
 
-- [Screenshot 1](screenshots/screenshot1.png)
-- [Screenshot 2](screenshots/screenshot2.png)
-- [Screenshot 3](screenshots/screenshot3.png)
-
-Check out a video demonstration of the app [here]().
 
 ## Contributing
 
