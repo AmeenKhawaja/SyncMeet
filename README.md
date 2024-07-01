@@ -26,9 +26,7 @@
 - [Contact](#contact)
 
 ## Demo
-
-Here are some screenshots showcasing the MeetingMaster app in action:
-
+Screenshots displaying the functionality and UI:
 <p><img width="422" alt="1c" src="https://github.com/AmeenKhawaja/SyncMeet/assets/71676841/400fe99e-a54c-411f-a3f2-f4bfefa96298"></p>
 <p><img width="422" alt="1d" src="https://github.com/AmeenKhawaja/SyncMeet/assets/71676841/95b26bc2-5adb-46b0-86d0-fd82dc9e72f3"></p>
 <p><img width="426" alt="1b" src="https://github.com/AmeenKhawaja/SyncMeet/assets/71676841/ac0325df-1393-4a3b-8069-14d9647231b1"></p>
